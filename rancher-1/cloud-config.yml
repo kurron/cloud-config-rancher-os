@@ -1,0 +1,4 @@
+hostname: rancher-1
+
+ssh_authorized_keys:
+    - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC+trF8Ol+N3KWhKI5GB4ON9D2njgE1K+tHOeHBMGysWlBbTIsVmZ6x799W4Ah5voLXLcrFWuP0Gyymxbs2GKKu3c8RdKACscrlrNviG4ARX8A/F/FVGhoDCahuEFYpLUfM2qH8TZVfBl/IRo9GCwqSu4y4/RCZLYOd/uBLSJ9XJeK0TzbZnWwRnNkv+O6hY7I+o3d8TUUScuNAnGfBkt2Omwv5Z6kTVvjAGCsD44+gauM8ju0gstuWmr4fwRf8W9KFx0nob1fKaHrlueldlVVG+OOayKGYCUrM68/xW6cO3C2QAiztcHmPZeWB1gADpuyiY510wgqNSOnIU8dgezxb rkurr@batcave 
